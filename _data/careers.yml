@@ -1,4 +1,18 @@
 - name:
+    detail: Post-doc at UBFC, Le2i laboratory
+    i18n: postdoc
+  desc:
+    detail: From March 2016 to March 2018, I am a post-doc in UBFC, Le2i laboratory, working on ANR VIPeR project.
+    i18n: postdoc_des
+  date:
+    detail: March. 2016 - March. 2018
+    i18n: postdoc_date
+  job:
+    detail: Post-doc
+    i18n: potdoc_job
+  icon: fa-search
+
+- name:
     detail: Joint PhD at UdG-UBFC
     i18n: phd
   desc:
