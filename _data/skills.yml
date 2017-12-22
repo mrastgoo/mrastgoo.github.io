@@ -1,47 +1,60 @@
 - name: Medical Imaging
   percentage: 90
 
-- name: Polarized imaging
-  percentage: 90
-
-- name: Multispectral imaging
-  percentage: 85
-
 - name: Python
   percentage: 95
 
-- name: Melanoma Cancer
-  percentage: 95
+- name: Computer Vision
+  percentage: 85
 
 - name: C/C++
   percentage: 60
 
-- name: Retinopathy
-  percentage: 85
+- name: Melanoma Cancer
+  percentage: 95
 
 - name: Git
   percentage: 98
 
-- name: Pattern Recognition
+- name: Polarized imaging
   percentage: 90
 
 - name: Linux/Unix
   percentage: 95
 
-- name: Machine Learning
-  percentage: 90
-
-- name: Deep Learning
-  percentage: 60
+- name: Multispectral imaging
+  percentage: 85
 
 - name: Matlab
   percentage: 95
 
-- name: Data Mining
+- name: Machine Learning
   percentage: 90
 
 - name: Latex
   percentage: 95
 
-- name: Computer Vision
+- name: Retinopathy
   percentage: 85
+
+- name : ROS
+  percentage: 90
+
+- name: Pattern Recognition
+  percentage: 90
+
+- name:
+
+- name: Deep Learning
+  percentage: 60
+
+- name:
+
+- name: Data Mining
+  percentage: 90
+
+- name:
+
+
+
+- name

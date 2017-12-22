@@ -13,5 +13,5 @@
 - name: 'VIPeR'
   i18n: 'VIPeR'
   url: 'https://gitlab.com/olivimo/VIPeR'
-  img: 'static/img/landing/sklearncontrib.png'
+  img: 'static/img/landing/VIPeR.png'
   desc: 'VIsion Polarimétrique pour la navigation de Robots, a project dedicated to exploit polarization as an extra navigation tool for the robot'

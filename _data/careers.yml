@@ -53,3 +53,17 @@
     detail: MSc student candidate
     i18n: vibot_job
   icon: fa-book
+
+- name:
+    detail: Bachelor of Electrical and Electronics Engineering, University Teknologi PETRONAS
+    i18n: EE, UTP
+  desc:
+    detail: In 2005 I obtained PETRONAS scholarship to study EE.Eng in UTP and four years after, in June 2009, I obtained my bachelor among Hounor class.
+    i18n: utp_des
+  date:
+    detail: Sep. 2005 - June. 2009
+    i18n: utp_date
+  job:
+    detail: Bsc student candidate
+    i18n: utp_job
+  icon: fa-book
