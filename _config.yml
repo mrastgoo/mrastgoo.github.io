@@ -15,6 +15,7 @@ author:
   last_name: 'Rastgoo'
   email: 'mojdeh.rastgoo@gmail.com'
   linkedin_username: '....'
+  scholar_username: 'https://scholar.google.fr/citations?user=lPIo6ucAAAAJ&hl=en&oi=ao'
   github_username: 'mrastgoo'
   head_img: 'static/img/landing/picture.jpeg'
   desc: 'I am a researcher focusing on medical imaging, polarized and multispectral sensors, pattern recognition, and machine learning. I strive for open source and data.'
