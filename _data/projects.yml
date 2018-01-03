@@ -1,9 +1,3 @@
-- name: 'I2CVB Melanoma'
-  i18n: 'Melanoma'
-  url: '/I2Cvb/melanoma'
-  img: 'static/img/landing/i2cvb.png'
-  desc: 'Repository associated with our medical imaging development related to melanoma cancer.'
-
 - name: 'I2CVB Retinopathy'
   i18n: 'retinopathy'
   url: '/I2Cvb/retinopathy'
