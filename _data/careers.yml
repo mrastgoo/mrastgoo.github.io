@@ -1,8 +1,22 @@
+- name: Research engineer
+    detail: Data scientist in Saint-Gobain Research Paris 
+    i18n: re
+  desc:
+    detail: From April 2018 to present, I am working in Datalab team of SGR-Paris.
+    i18n: re_des 
+  date:
+    detail: April. 2018 - Present
+    i18n: re_date
+  job:
+    detail: Research Engineer
+    i18n: re_job
+  icon: fa-search
+  
 - name:
     detail: Post-doc at UBFC, Le2i laboratory
     i18n: postdoc
   desc:
-    detail: From March 2016 to March 2018, I am a post-doc in UBFC, Le2i laboratory, working on ANR VIPeR project.
+    detail: From March 2016 to March 2018, I was a post-doc in UBFC, Le2i laboratory, working on ANR VIPeR project.
     i18n: postdoc_des
   date:
     detail: March. 2016 - March. 2018
