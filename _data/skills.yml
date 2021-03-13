@@ -23,6 +23,12 @@
   percentage: 98
 
 - name: Machine Learning
+  percentage: 98
+
+- name: Data Mining
+  percentage: 98
+
+- name: Computer Vision
   percentage: 90
 
 - name: Linux/Unix
