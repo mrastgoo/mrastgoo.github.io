@@ -1,0 +1,17 @@
+- name: 'PyLadies Paris'
+  i18n: ''
+  url: 'https://www.meetup.com/fr-FR/pyladiesparis/'
+  img: 'static/img/landing/pyladiesparis.png'
+  desc: 'Organizing meetups, workshops and mentorship sessions for under-represented groups and python community in paris'
+
+- name: 'Euroscipy'
+  i18n: 'euroscipy'
+  url: 'https://www.euroscipy.org/2023/'
+  img: 'static/img/landing/euroscipy.png'
+  desc: 'Co-organizer'
+
+- name: 'JupyterCon'
+  i18n: 'jupytercon23'
+  url: 'https://www.jupytercon.com/'
+  img: 'static/img/landing/jupyterCon23.png'
+  desc: 'DEI Co-Chair'
