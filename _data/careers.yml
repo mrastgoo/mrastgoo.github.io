@@ -1,17 +1,31 @@
 - name:
-    detail: Data scientist in Saint-Gobain Research Paris. 
+    detail: Senior Data scientist @ Saint-Gobain.
     i18n: re
   desc:
-    detail: From April 2018 to present, I am working in Datalab team of SGR-Paris.
-    i18n: re_des 
+    detail: From March 2022 to present. Develop and industrialized AI solutions for different businesses of Saint-Gobain.
+    i18n: re_des
   date:
-    detail: April. 2018 - Present
+    detail: April. 2022 - Present
     i18n: re_date
   job:
-    detail: Research Engineer
+    detail: Senior Data Scientist
     i18n: re_job
   icon: fa-search
-  
+
+- name:
+    detail: Data scientist & Project Manager @ Saint-Gobain Research Paris.
+    i18n: re
+  desc:
+    detail: From April 2018 to 2022. Developing AI solutions in context of R&D projects.
+    i18n: re_des
+  date:
+    detail: April. 2018 - March. 2022
+    i18n: re_date
+  job:
+    detail: Research Engineer & Project Manager
+    i18n: re_job
+  icon: fa-search
+
 - name:
     detail: Post-doc at UBFC, Le2i laboratory
     i18n: postdoc
