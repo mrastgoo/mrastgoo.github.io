@@ -18,7 +18,9 @@ author:
   scholar_username: 'https://scholar.google.fr/citations?user=lPIo6ucAAAAJ&hl=en&oi=ao'
   github_username: 'mrastgoo'
   head_img: 'static/img/landing/picture.jpeg'
-  desc: "Currently I am a data scientist at Saint-Gobain Research Paris. I am passionate about data analysis, machine learning in general and I strive for open source and data." 
+  desc: "Currently I am a senior data scientist at Saint-Gobain. My work include developing and industrializing AI solutions for different bussiness of saint-gobain.
+  I am passionate about initiatives related to open-source and strive for diversity within the community." 
+
   
 
 # sections
@@ -41,11 +43,11 @@ sections:
     tpl: 'skills.html'
     css: 'team'
 
-  - id: 'projects'
-    i18n: 'nav.projects'
-    name: 'Projects'
-    tpl: 'projects.html'
-    css: 'project'
+  - id: 'Community activities'
+    i18n: 'nav.community'
+    name: 'Community'
+    tpl: 'activities.html'
+    css: 'activities'
 
   - id: 'publications'
     i18n: 'nav.publications'
